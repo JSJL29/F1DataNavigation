@@ -19,7 +19,7 @@ pip install pandas
 ## Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone <lien-du-repo>
+   git clone git@github.com:JSJL29/F1DataNavigation.git
    ```
 2. Placez les fichiers CSV dans un dossier `data/` à la racine du projet.
 3. Ouvrez et exécutez le notebook `F1DataBrowser.ipynb` dans Jupyter Notebook ou JupyterLab.
